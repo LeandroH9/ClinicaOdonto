@@ -2,7 +2,7 @@
   Clinica Odonto
 <br />  
   <br /> 
-  <img src="assets/inicio.JPG" alt="clinica-odonto" width="100%">
+  <img src="assets/principal.JPG" alt="clinica-odonto" width="100%">
 <br />
 </h1> 
 <p align="center"> <strong> Site de uma clinica odontológica, desenvolvido durante o processo seletivo da empresa junior EJCOMP.</strong> </p>
