@@ -5,7 +5,7 @@
   <img src="assets/inicio.JPG" alt="clinica-odonto" width="100%">
 <br />
 </h1> 
-<p align="center"> <strong> Site de uma clinica odontológica, desenvolvido no processo seletivo da EJCOMP.</strong> </p>
+<p align="center"> <strong> Site de uma clinica odontológica, desenvolvido durante o processo seletivo da empresa junior - EJCOMP.</strong> </p>
 
 
 <p align="center">
@@ -28,5 +28,4 @@
 
 - **Agendamento**
 <img src="assets/agendamento.JPG" alt="agendamento" width="100%">
-
 
